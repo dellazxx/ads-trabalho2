@@ -7,6 +7,21 @@
     <link rel="stylesheet" href="cad-usuarios.css">
 </head>
 <body>
+    <nav>
+            <ul>
+           <li><a href="index.php">Inicio</a></li>
+           <li><a href="usuarios.php">Campeonatos</a></li>
+           <li><a href="#">Estatísticas</a></li>
+
+           <div class="perfil-usuario">
+    <img src="https://ui-avatars.com/api/?name=Gabriel+Della&background=008080&color=fff" alt="Avatar">
+    <span>Gabriel</span>
+</div>
+           
+</ul>
+
+</nav>
+
    <main><section class="card-form">
     <div class="form-header">
         <h2><i class="fa-solid fa-user-plus"></i> Novo Usuário</h2>

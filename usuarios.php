@@ -10,10 +10,26 @@
 
 </head>
 <body>
+
+<nav>
+            <ul>
+           <li><a href="index.php">Inicio</a></li>
+           <li><a href="cad-usuarios.php">Notícias</a></li>
+           <li><a href="#">Estatísticas</a></li>
+
+           <div class="perfil-usuario">
+    <img src="https://ui-avatars.com/api/?name=Gabriel+Della&background=008080&color=fff" alt="Avatar">
+    <span>Gabriel</span>
+</div>
+           
+</ul>
+
+</nav>
+
     <main>
         <div class="header-content">
             <h2>Gestão de Usuários</h2>
-            <p>Visualize e gerencie as permissões dos Usuáriosdo sistema.</p>
+            <p>Visualize e gerencie as permissões dos Usuários do sistema.</p>
 </div>
 
 <div class="table-responsive">

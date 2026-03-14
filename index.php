@@ -12,9 +12,9 @@
         <nav class="menu">
             <h2>Bem vindo ao melhor site sobre o mundo da bola!</h2>
             <ul>
-           <li><a href="#">Inicio</a></li>
-           <li><a href="#">Campeonatos</a></li>
-           <li><a href="#">Notícias</a></li>
+           <li><a href="index.php">Inicio</a></li>
+           <li><a href="usuarios.php">Usuários</a></li>
+           <li><a href="cad-usuarios.php">Notícias</a></li>
            <li><a href="#">Estatísticas</a></li>
 
            <div class="perfil-usuario">
